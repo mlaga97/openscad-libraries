@@ -1,0 +1,9 @@
+[submodule "BOSL2"]
+	path = BOSL2
+	url = https://github.com/revarbat/BOSL2
+[submodule "dotSCAD"]
+	path = dotSCAD
+	url = https://github.com/JustinSDK/dotSCAD
+[submodule "NopSCADlib"]
+	path = NopSCADlib
+	url = https://github.com/nophead/NopSCADlib
